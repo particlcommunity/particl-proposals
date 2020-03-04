@@ -12,7 +12,7 @@
   "network": "testnet",
   "version": 1,
   "blockheight_start": 589000,
-  "blockheight_end": 600000,
+  "blockheight_end": 700000,
   "link": "https://github.com/particlcommunity/particl-proposals/issues/2",
   "name": "Test Proposal 2"
 }]
