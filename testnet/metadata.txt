@@ -1,0 +1,18 @@
+[{
+  "proposalid": 100,
+  "network": "testnet",
+  "version": 1,
+  "blockheight_start": 589000,
+  "blockheight_end": 595000,
+  "link": "https://github.com/particlcommunity/particl-proposals/issues/1",
+  "name": "Test Proposal 1"
+},
+{
+  "proposalid": 101,
+  "network": "testnet",
+  "version": 1,
+  "blockheight_start": 589000,
+  "blockheight_end": 600000,
+  "link": "https://github.com/particlcommunity/particl-proposals/issues/2",
+  "name": "Test Proposal 2"
+}]
